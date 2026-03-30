@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nikhil Kumar 👋
 
-<!--
-**nikhilkumar1001/nikhilkumar1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at VIT Bhopal University  
+📚 First Year | computer science engineering
+💻 Interested in Programming, Technology & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: Python and Java 
+- 🎯 Goal: Build strong technical and problem-solving skills  
+- 📌 Passionate about learning new technologies  
+
+---
+
+## 🛠 Skills (Learning Phase)
+- Basic Computer Skills and python
+- GitHub (Beginner)  
+  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (add your link later)
+
+
