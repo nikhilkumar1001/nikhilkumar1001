@@ -21,6 +21,6 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add your link later)
+- LinkedIn: https://www.linkedin.com/in/nikhil-kumar-971894148 
 
 
